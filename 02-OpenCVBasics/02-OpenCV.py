@@ -4,7 +4,7 @@ import cv2
 
 #Constants
 PATH = '/Users/slem/Code/Learn/DataScience/CVDL_PyImageSearch/02-OpenCVBasics' 
-IMG = '/image.jpg'
+IMG = '/images/image.jpg'
 
 #Open image
 image = cv2.imread(PATH+IMG)
